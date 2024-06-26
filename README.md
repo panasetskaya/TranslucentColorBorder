@@ -1,6 +1,6 @@
 [issuetracker](https://issuetracker.google.com/issues/349561253)
 
-Translucent color and Outline.Generic Shape do not work well together in `Modifier.border()`. The color shows incorrectly.
+Translucent color and Outline.Generic Shape do not work well together in `Modifier.border()`. The color is rendered incorrectly.
 
 ![Screenshot 2024-06-26 at 16 00 29](https://github.com/panasetskaya/TranslucentColorBorder/assets/90948269/609c7b64-bdca-4864-a683-717387663061)
 
