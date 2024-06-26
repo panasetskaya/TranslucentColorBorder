@@ -67,7 +67,7 @@ fun Example(modifier: Modifier = Modifier) {
         ExampleBox(
             shape = customShape,
             borderColor = translucentColor
-        ) // but if we try to apply it to a Shape that is Outline.Generic, it looks like this,
+        ) // but if we try to apply it to a Shape that has Outline.Generic outline, it looks like this,
         // almost invisible in this case
         Spacer(Modifier.height(16.dp))
         ExampleBoxWithAWorkAround(
